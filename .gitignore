@@ -588,3 +588,4 @@ MigrationBackup/
 
 
 .idea
+*.commands
